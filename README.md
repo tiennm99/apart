@@ -2,16 +2,8 @@
 
 Small personal website with photos and music for someone far away.
 
-Static page; open `index.html` in a browser or host on any static file server.
-
-## Structure
-
-- `index.html` — main page
-- `style.css` — styles
-- `main.js` — interactions
-- `img/` — photos
-- `music/` — audio
+Live: https://tiennm99.github.io/apart/
 
 ## License
 
-Apache-2.0
+Apache-2.0 — see [LICENSE](LICENSE).
